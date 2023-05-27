@@ -22,7 +22,7 @@ textarea{
     width:100px;
     height:50px;
     margin-top: 25px;
-    margin-left: 25%;
+    margin-left: 40%;
     padding: 11px;
 }
 .saved-notes-textarea{
@@ -43,6 +43,7 @@ textarea{
     border-right: 5px blue solid;
     border-left: 5px blue solid;
     box-shadow: 5px 10px;
+    margin-top: 20px;
 }
 input:focus, textarea:focus, select:focus{
     outline: none;
